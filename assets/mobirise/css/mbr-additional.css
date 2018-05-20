@@ -1894,7 +1894,8 @@ body {
 .cid-qRmy7zDvqm {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/papers-with-white-2000x1250.jpg");
+  background-color: #232541;
+  background: linear-gradient(#232541, #162e36);
 }
 .cid-qRmy7zDvqm .carousel-control {
   background: #000;
@@ -2101,7 +2102,7 @@ body {
 .cid-qRmzgnLD0I {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-qRmzgnLD0I .title {
   margin-bottom: 2rem;
@@ -2128,7 +2129,7 @@ body {
 .cid-qRmzvsPfaU {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-qRmzvsPfaU [class^="socicon-"]:before,
 .cid-qRmzvsPfaU [class*=" socicon-"]:before {
@@ -2538,14 +2539,14 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qRmt8301Ar {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/wall2-1-2000x1250.jpg");
 }
 .cid-qRmsZ4y91W {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background6.jpg");
+  background-color: #efefef;
 }
 .cid-qRmsZ4y91W h4 {
   font-weight: 500;
@@ -2976,14 +2977,17 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qRmEhz2zu0 {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/wall2-2000x1250.jpg");
+}
+.cid-qRmEhz2zu0 .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-qRmEExvMKv {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qRmEH5bPCX {
   padding-top: 90px;
@@ -3414,14 +3418,14 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qRmH5Re0LW {
-  padding-top: 105px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron6.jpg");
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/wall1-2000x1250.jpg");
 }
 .cid-qRmH2cB8E5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-qRmH2cB8E5 .mbr-iconfont {
   font-size: 48px;
@@ -3900,6 +3904,11 @@ body {
 .cid-qRmdxMRPZa .nav-link:hover,
 .cid-qRmdxMRPZa .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-qSCuzyT4zy {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/wall1-2000x1250.jpg");
 }
 .cid-qRmK5QTLIG {
   padding-top: 90px;
